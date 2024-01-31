@@ -1,7 +1,9 @@
 import './style.css';
 import NavBar from './components/header/NavBar'
 import ContainerCardItems from './components/componentsItem/ContainerCardItems';
-import { BrowserRouter, Routes, Route} from 'react-router-dom';
+import DetailsItem from './components/componentsItem/DetailsItem'; 
+import { BrowserRouter, Route, Routes} from 'react-router-dom';
+
 
 
 

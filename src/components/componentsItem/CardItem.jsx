@@ -1,6 +1,6 @@
 import Image from "./Image";
 import  "../styles/cardItem.css";
-import Description from "./Descritpion";
+import Description from "./Description";
 import ButtonDetalles from "./ButtonDetalles";
 import ButtonAddCart from  "./ButtonAddCart";
 

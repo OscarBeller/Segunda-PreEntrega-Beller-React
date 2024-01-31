@@ -4,7 +4,7 @@ const productos = [
         title: "Taragüi",
         description: "Yerba elaborada siin palo, ideal para mates largos",
         stock: 1800,
-        type: " yerba ",
+        type: "Yerbas",
         imageProduct: {
             firtsImage: "https://i.ibb.co/drSJkwt/yerba8.jpg",
         },
@@ -16,7 +16,7 @@ const productos = [
         title: "ROSA MONTE",
         description: " La yerba con los cortes justos de hoja, un blend muy bueno.",
         stock: 1232,
-        type: " yerba ",
+        type: "Yerbas",
         imageProduct: {
             firtsImage: "https://i.ibb.co/wcH0VV7/yerba6.jpg",
         },
@@ -28,7 +28,7 @@ const productos = [
         title: "PICADA VIEJA ",
         description: "Como su nombre lo indica, es una yerba ideal para tomar con la vieja. Esos mates que te hacen mimos al corazon ",
         stock: 900,
-        type: " yerba ",
+        type: "Yerbas",
         imageProduct: {
             firtsImage: "https://i.ibb.co/48B5Kk1/yerba4.jpg",
         },
@@ -41,7 +41,7 @@ const productos = [
         title: "MATE CAMIONERO DE ALGARROBO ",
         description: " Mate camionero realizado en algarrobo, ideal para esos mates con amigos ",
         stock: 12,
-        type: " mate ",
+        type: "Mates",
         imageProduct: {
             firtsImage: "https://i.ibb.co/SmYrB6M/mate3.jpg",
         },
@@ -53,7 +53,7 @@ const productos = [
         title: "MATE CAMIONERO CHICO",
         description: "Mate camionero version pequeña, ideal para tomar mates solo. ",
         stock: 25,
-        type: " mate ",
+        type: "Mates",
         imageProduct: {
             firtsImage: "https://i.ibb.co/qBj4DtT/mate4.jpg",
         },
@@ -65,7 +65,7 @@ const productos = [
         title: "MATE TORPEDO ",
         description: "Mate torpedo, con detalles en el cuero",
         stock: 15,
-        type: " mate ",
+        type: "Mates",
         imageProduct: {
             firtsImage: "https://i.ibb.co/Tq0PSVd/mate8.jpg",
         },
@@ -77,7 +77,7 @@ const productos = [
         title: "MATE CAMPEON DEL MUNDO",
         description: "TU MATE IDEAL CAMPEEEON... ",
         stock: 15,
-        type: " mate ",
+        type: "Mates",
         imageProduct: {
             firtsImage: "https://i.ibb.co/jMF5cyj/mate9.jpg",
         },
@@ -90,7 +90,7 @@ const productos = [
         title: "Yerbera Viajera",
         description: "Yerbera ideal para viajar, viene con un porta bombilla incluido.",
         stock: 15,
-        type: " Accesorios ",
+        type: "Accesorios",
         imageProduct: {
             firtsImage: "https://i.ibb.co/6ZzWZZK/yerbero-Bombilla.jpg",
         },
@@ -102,7 +102,7 @@ const productos = [
         title: "PORTA MATE ",
         description: "Accesorio ideal para el auto.",
         stock: 10,
-        type: " Accesorios ",
+        type: "Accesorios",
         imageProduct: {
             firtsImage: "https://i.ibb.co/5Yd24jB/materacuero4.jpg",
 
@@ -115,7 +115,7 @@ const productos = [
         title: "MATERA DE CUERO",
         description: "Matera ideal para llevar todas las cosas ",
         stock: 15,
-        type: " Accesorios ",
+        type: "Accesorios",
         imageProduct: {
             firtsImage: "https://i.ibb.co/JvrdmxM/materacuero1.jpg", 
         },

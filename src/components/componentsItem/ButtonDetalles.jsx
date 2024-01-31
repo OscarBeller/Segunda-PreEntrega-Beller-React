@@ -1,3 +1,4 @@
+
 const ButtonDetalles = () => {
   return (
    <button id="detalles">VER DETALLES</button>

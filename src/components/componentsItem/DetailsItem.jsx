@@ -1,9 +1,9 @@
 import Image from "./Image";
 import Description from "./Description";
-import "../../styles/detailsItem.css";
-import ButtonDetalles from  "../ButtonDetalles";
-import fetchSimultion from "../../utils/fetchSimulation";
-import productos from "../../utils/products";
+import "../styles/detailsItem.css";
+import ButtonDetalles from "./ButtonDetalles";
+import fetchSimultion from "../utils/fetchSimulation";
+import productos from  '../utils/products';
 import { useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
 import MoonLoader from "react-spinners/ClipLoader";
@@ -55,4 +55,4 @@ const DetailsItem = () => {
     )
 }
 
-export default DetailsItem;
+export  default DetailsItem;
